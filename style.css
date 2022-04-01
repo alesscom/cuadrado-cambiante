@@ -1,0 +1,35 @@
+.heading{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    color: blueviolet !important;
+    background-color: greenyellow !important;
+}
+.nota{
+    font-size: 15px;
+    color: red;
+}
+.pie_de_pajina{
+    position: fixed;
+    color:azure;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: left;
+    margin-left: 20px;
+}
+canvas{
+    border: 5px solid red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
+#lado_c{
+    background-color: yellow;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px grey;
+}
+div{
+    border: 15px solid blueviolet;
+}
